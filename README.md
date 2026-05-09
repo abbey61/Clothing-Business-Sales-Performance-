@@ -1,5 +1,6 @@
 # Clothing-Business-Sales-Performance-
 An analysis of a global retail dataset (20k+ rows) using Power BI, and the insights were a masterclass in consumer behavior. While we often think "more ads = more money," the numbers told a different story.
+
 KEY INSIGHTS
 
 - Clothe Business sales data of 20,340 rows, 20,252 products, 5 clothing type distributed between 12 contries.
